@@ -19,7 +19,7 @@ Este projeto é um **Gerenciador de Tarefas** simples desenvolvido em Python uti
 </p>
 
 <p align="left">
-  🇺🇸 Hi! I'm Lucas, a developer who loves exploring new technologies. <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="20"/> Hi! I'm Lucas, a developer who loves exploring new technologies. <br>
   Currently, I'm focused on development with **Python** and front-end tools like **React**, **TypeScript**, and **CSS**.
 </p>
 
