@@ -13,8 +13,8 @@ Este projeto é um **Gerenciador de Tarefas** simples desenvolvido em Python uti
 
 ## Sobre Mim
 
-<p align="left"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/> Olá! Eu sou Lucas, um desenvolvedor que adora explorar novas tecnologias. <br>
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/> Olá! Eu sou Lucas, um desenvolvedor que adora explorar novas tecnologias. <br>
   Atualmente, estou focado em desenvolvimento com **Python** e ferramentas de front-end como **React**, **TypeScript** e **CSS**.
 </p>
 
