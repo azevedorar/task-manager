@@ -14,16 +14,21 @@ Este projeto é um **Gerenciador de Tarefas** simples desenvolvido em Python uti
 ## Sobre Mim
 
 <p align="left"> 
-  Olá! Eu sou [Seu Nome], um desenvolvedor que adora explorar novas tecnologias. <br>
-  Atualmente, estou focado em desenvolvimento com **Python** e ferramentas de front-end como **React** e **TypeScript**.
+   🇧🇷 Olá! Eu sou Lucas, um desenvolvedor que adora explorar novas tecnologias. <br>
+  Atualmente, estou focado em desenvolvimento com **Python** e ferramentas de front-end como **React**, **TypeScript** e **CSS**.
 </p>
 
 <p align="left">
-  🦄 **Linguagens:** Python, JavaScript, TypeScript, HTML, CSS
+  🇺🇸 Hi! I'm Lucas, a developer who loves exploring new technologies. <br>
+  Currently, I'm focused on development with **Python** and front-end tools like **React**, **TypeScript**, and **CSS**.
 </p>
 
 <p align="left">
-  💼 **Ferramentas:** Tkinter, React, Vite, Git, GitHub
+  **Linguagens:** Python, JavaScript, TypeScript, HTML, CSS
+</p>
+
+<p align="left">
+ **Ferramentas:** Tkinter, React, Vite, Git, GitHub
 </p>
 
 ## Contato
@@ -33,15 +38,10 @@ Este projeto é um **Gerenciador de Tarefas** simples desenvolvido em Python uti
 </p>
 
 <p align="left">
-  <a href="mailto:seuemail@gmail.com" title="Gmail">
+  <a href="mailto:contato.lucasazevedo1@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   
-  <a href="https://www.linkedin.com/in/seulinkedin" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/lucas-azevedos" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-  <a href="https://wa.me/SEUNUMEROWHATSAPP" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-  <a href="https://www.instagram.com/seuinstagram" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
