@@ -14,21 +14,22 @@ Este projeto é um **Gerenciador de Tarefas** simples desenvolvido em Python uti
 ## Sobre Mim
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/> Olá! Eu sou Lucas, um desenvolvedor que adora explorar novas tecnologias. <br>
-  Atualmente, estou focado em desenvolvimento com **Python** e ferramentas de front-end como **React**, **TypeScript** e **CSS**.
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/> 
+  Olá! Eu sou Lucas, um desenvolvedor que adora explorar novas tecnologias. <br>
+  Atualmente, estou focado em desenvolvimento com <strong>Python</strong> e ferramentas de front-end como <strong>React</strong>, <strong>TypeScript</strong> e <strong>CSS</strong>.
 </p>
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="20"/> Hi! I'm Lucas, a developer who loves exploring new technologies. <br>
-  Currently, I'm focused on development with **Python** and front-end tools like **React**, **TypeScript**, and **CSS**.
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="20"/> 
+  Hi! I'm Lucas, a developer who loves exploring new technologies. <br>
+  Currently, I'm focused on development with <strong>Python</strong> and front-end tools like <strong>React</strong>, <strong>TypeScript</strong>, and <strong>CSS</strong>.
+</p>
+<p align="left">
+  <stong>Linguagens:</stong>Python, JavaScript, TypeScript, HTML, CSS
 </p>
 
 <p align="left">
-  **Linguagens:** Python, JavaScript, TypeScript, HTML, CSS
-</p>
-
-<p align="left">
- **Ferramentas:** Tkinter, React, Vite, Git, GitHub
+ <strong>Ferramentas:</strong>Tkinter, React, Vite, Git, GitHub
 </p>
 
 ## Contato
